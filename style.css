@@ -1,12 +1,6 @@
 
-body {
-  background-color: #00b3e6
-}
+body {background-color: #00b3e6}
 div {width: 700px;}
 #main-header 
-{
-  "font-size: 22px;" color:red;
-}
-.perspective-questions {
- "font-style: italic"
-  }
+{"font-size: 22px;" color:red;}
+.perspective-questions {"font-style: italic"}
